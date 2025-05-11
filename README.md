@@ -6,7 +6,7 @@ A ROS2 based autonomous mobile robot simulation using TurtleBot3, featuring SLAM
 
 ## Prerequisites
 - **Operating System**: Ubuntu 22.04
-- **ROS2 Distribution**: Humble
+- **ROS2 Distro**: Humble
 - **Simulation Tools**: Gazebo
 - **Hardware**: TuretleBot3 (Burger)
 
