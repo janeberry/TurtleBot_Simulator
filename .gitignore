@@ -1,4 +1,4 @@
-turtlebot/build/
-turtlebot/install/
-turtlebot/log/
+build/
+install/
+log/
 .vscode/
